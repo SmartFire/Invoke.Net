@@ -33,10 +33,6 @@ namespace Invoke.Net.Test
         [TestMethod]
         public void TestMethod2()
         {
-            Task.Run(() => { var s = "hello"; });
-            Task.Factory.StartNew(() => { });
-            new Thread(() => { }).Start();
-
             Assert.IsTrue(1 == 1);
         }
 
