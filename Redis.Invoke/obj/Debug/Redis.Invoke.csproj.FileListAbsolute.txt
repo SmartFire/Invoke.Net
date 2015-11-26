@@ -1,0 +1,12 @@
+H:\Projects\GitHub\Invoke.Net\Redis.Invoke\bin\Debug\Redis.Invoke.dll
+H:\Projects\GitHub\Invoke.Net\Redis.Invoke\bin\Debug\Redis.Invoke.pdb
+H:\Projects\GitHub\Invoke.Net\Redis.Invoke\bin\Debug\ServiceStack.Common.dll
+H:\Projects\GitHub\Invoke.Net\Redis.Invoke\bin\Debug\ServiceStack.Interfaces.dll
+H:\Projects\GitHub\Invoke.Net\Redis.Invoke\bin\Debug\ServiceStack.Redis.dll
+H:\Projects\GitHub\Invoke.Net\Redis.Invoke\bin\Debug\ServiceStack.Text.dll
+H:\Projects\GitHub\Invoke.Net\Redis.Invoke\bin\Debug\ServiceStack.Common.xml
+H:\Projects\GitHub\Invoke.Net\Redis.Invoke\bin\Debug\ServiceStack.Redis.xml
+H:\Projects\GitHub\Invoke.Net\Redis.Invoke\bin\Debug\ServiceStack.Text.xml
+H:\Projects\GitHub\Invoke.Net\Redis.Invoke\obj\Debug\Redis.Invoke.csprojResolveAssemblyReference.cache
+H:\Projects\GitHub\Invoke.Net\Redis.Invoke\obj\Debug\Redis.Invoke.dll
+H:\Projects\GitHub\Invoke.Net\Redis.Invoke\obj\Debug\Redis.Invoke.pdb

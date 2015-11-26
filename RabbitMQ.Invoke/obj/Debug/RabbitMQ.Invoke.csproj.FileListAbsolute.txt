@@ -1,0 +1,7 @@
+H:\Projects\GitHub\Invoke.Net\RabbitMQ.Invoke\bin\Debug\RabbitMQ.Invoke.dll
+H:\Projects\GitHub\Invoke.Net\RabbitMQ.Invoke\bin\Debug\RabbitMQ.Invoke.pdb
+H:\Projects\GitHub\Invoke.Net\RabbitMQ.Invoke\bin\Debug\RabbitMQ.Client.dll
+H:\Projects\GitHub\Invoke.Net\RabbitMQ.Invoke\bin\Debug\RabbitMQ.Client.xml
+H:\Projects\GitHub\Invoke.Net\RabbitMQ.Invoke\obj\Debug\RabbitMQ.Invoke.csprojResolveAssemblyReference.cache
+H:\Projects\GitHub\Invoke.Net\RabbitMQ.Invoke\obj\Debug\RabbitMQ.Invoke.dll
+H:\Projects\GitHub\Invoke.Net\RabbitMQ.Invoke\obj\Debug\RabbitMQ.Invoke.pdb
